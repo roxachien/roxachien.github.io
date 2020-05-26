@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Puppy Shopping List
 published: true
 ---
 
-##Puppy Shopping List:
+This is what I recommend EVERY puppy should have!
 
 -[Crate](https://www.mondou.com/fr-CA/p-cage-a-deux-portes-dont-une-style-porte-de-garage/1022741-MASTER/1022741)  
 -[Playpen](https://www.mondou.com/fr-CA/p-parc-pour-animaux-sans-porte/1030579-MASTER/1030579)  
