@@ -2,6 +2,7 @@
 layout: post
 title: Puppy Shopping List
 published: true
+category: supplies
 ---
 
 This is what I recommend EVERY puppy should have!
