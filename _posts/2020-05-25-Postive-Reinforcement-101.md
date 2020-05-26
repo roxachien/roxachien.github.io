@@ -2,6 +2,6 @@
 published: true
 layout: post
 ---
-## Positive Reinforcement 101
+## How to treat your dog
 
 Be nice!
