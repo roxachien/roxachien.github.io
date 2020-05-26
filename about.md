@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-### Contact mee
+### Contact me
 
 [roxanecrevier4@gmail.com](mailto:roxanecrevier4@gmail.com)
