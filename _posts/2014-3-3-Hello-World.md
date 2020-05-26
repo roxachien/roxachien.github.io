@@ -1,10 +1,14 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Puppy Shopping List:
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+-[Crate](https://www.mondou.com/fr-CA/p-cage-a-deux-portes-dont-une-style-porte-de-garage/1022741-MASTER/1022741)
+-[Playpen](https://www.mondou.com/fr-CA/p-parc-pour-animaux-sans-porte/1030579-MASTER/1030579)
+-Blanket or bed for crate
+-[Kong](https://www.mondou.com/fr-CA/p-jouet-rebondissant-a-macher/1010830-MASTER/1010830)
