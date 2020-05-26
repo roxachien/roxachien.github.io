@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: Puppy Shopping List
 published: true
 ---
 
