@@ -1,1 +1,4 @@
 ## Supplies
+
+- Crate
+- Kong
