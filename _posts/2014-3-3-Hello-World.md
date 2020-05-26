@@ -4,9 +4,7 @@ title: You're up and running!
 published: true
 ---
 
-##
-
-Puppy Shopping List:
+##Puppy Shopping List:
 
 -[Crate](https://www.mondou.com/fr-CA/p-cage-a-deux-portes-dont-une-style-porte-de-garage/1022741-MASTER/1022741)  
 -[Playpen](https://www.mondou.com/fr-CA/p-parc-pour-animaux-sans-porte/1030579-MASTER/1030579)  
